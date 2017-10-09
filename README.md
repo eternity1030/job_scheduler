@@ -12,7 +12,7 @@ Details
 
 ### Things not Covered
   - Exception handling. If the input is not in the desired format then the script will break.
-  - Logging: Printing the details like when the job got entered for scheduling to the console instead of logs.
+  - Logging: Printing the details like when the job got entered for scheduling to the console instead of logs.
   - Test cases.
 
 # prerequisites
