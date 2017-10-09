@@ -37,3 +37,12 @@ At any time, you can add the jobs with following format
   ```
 
 ![Alt text](input_format.jpg?raw=true "Title")
+
+
+### Example
+
+Following screenshot shows a part of execution flow.
+Type "0" to exit.
+
+
+![Alt text](execution_flow.jpg?raw=true "Title")
