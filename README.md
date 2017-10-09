@@ -10,6 +10,11 @@ Details
   - Output: Prints the jobId executed and the time it got executed.
   - Performance Metrics: Should be able to support 1000s of jobs.
 
+### Things not Covered
+> Exception handling. If the input is not in the desired format then the script will break.
+> Logging: Printing the details like when the job got entered for scheduling to the console instead of logs.
+> Test cases.
+
 # prerequisites
 Install Python 2.7 type following command in the terminal window
   ```
