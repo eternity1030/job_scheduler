@@ -36,4 +36,4 @@ At any time, you can add the jobs with following format
   [(4,6)]
   ```
 
-![alt text](/Users/shadowfax1j/Documents/Reading_int/job_scheduler/input_format.jpg)
+![Alt text](input_format.jpg?raw=true "Title")
